@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<BUGREPORT>
+    <summary> bugreport </summary>
+    <project> ksendzov </project>
+    <component> ksendzov.com </component>
+    <version> 1.27 alpha </version>
+    <severity> S4 </severity>
+    <priority> P2 </priority>
+    <status> new </status>
+    <author> Ilya </author>
+    <assigned_to> mentor </assigned_to>
+    <description> its my first bug report </description>
+    <attachment> this file </attachment>
+</BUGREPORT>
