@@ -1,0 +1,10 @@
+<myinfo>
+	<name>Ilya</name>
+	<age>24</name>
+	<pets>
+		<cat>Kirsan</cat>
+		<chicken>Egor</chicken>
+		<dog>Zhenya</dog>
+	</pets>
+	<salary>1000$</salary>
+</myinfo>
