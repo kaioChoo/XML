@@ -1,4 +1,4 @@
-<? xml verison="1.0"?>
+<xml>
 
 <MYLOVELY>
 	<FILM> Легенда </FILM>
@@ -6,4 +6,4 @@
 	<FOOD> Ананас </FOOD>
 	<SEASON> Весна </SEASON>
 	<COUNTRY> Германия </COUNTRY>
-</MYLOVELY>
+</xml>
