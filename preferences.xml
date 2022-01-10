@@ -1,9 +1,8 @@
 <xml>
 
-<xml>
-	<FILM> Легенда </FILM>
-	<SERIAL> Бумажный Дом </SERIAL>
-	<FOOD> Ананас </FOOD>
-	<SEASON> Весна </SEASON>
-	<COUNTRY> Германия </COUNTRY>
-</xml>
+<FILM> Легенда </FILM>
+<SERIAL> Бумажный Дом </SERIAL>
+<FOOD> Ананас </FOOD>
+<SEASON> Весна </SEASON>
+<COUNTRY> Германия </COUNTRY>
+
